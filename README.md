@@ -75,7 +75,7 @@ Thank you to [KeenThemes](https://keenthemes.com/) for granting us a custom lice
 
 Thank you to [Crowdin](https://crowdin.com/) for granting us an Open Source License.
 
-Thank you to [Incode](https://www.incode.it/) for helping us to improve the UI/UX.
+Thank you to [Incode](https://www.incode.it/) for helping us to improve the UI/UX.  
 
 ## License
 
