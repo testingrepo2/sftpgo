@@ -11,7 +11,7 @@ Storage backends: local filesystem, encrypted local filesystem, S3 (compatible) 
 
 With SFTPGo you can leverage local and cloud storage backends for exchanging and storing files internally or with business partners using the same tools and processes you are already familiar with. 
 
-The WebAdmin UI allows to easily create and manage your users, folders, groups and other resources. 
+The WebAdmin UI allows to easily create and manage your users, folders, groups and other resources.
 
 The WebClient UI allows end users to change their credentials, browse and manage their files in the browser and setup two-factor authentication which works with Microsoft Authenticator, Google Authenticator, Authy and other compatible apps.
 
