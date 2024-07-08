@@ -49,7 +49,7 @@ It is important to understand that you should support SFTPGo and any other Open 
 
 ## Support policy
 
-You can use SFTPGo for free, respecting the obligations of the Open Source license, but please do not ask or expect free support as well. 
+You can use SFTPGo for free, respecting the obligations of the Open Source license, but please do not ask or expect free support as well.
 
 Use [discussions](https://github.com/drakkan/sftpgo/discussions) to ask questions and get support from the community.
 
